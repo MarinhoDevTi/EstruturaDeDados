@@ -22,6 +22,7 @@ public class Main {
 		
 		for (i = 0; i < tamanho; i++) {
 			v[i] = i;
+			System.out.println("v[" + i + "]" + " = " +v[i]); 
 		}
 		
 		
