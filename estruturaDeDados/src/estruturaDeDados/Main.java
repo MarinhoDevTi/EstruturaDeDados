@@ -3,7 +3,7 @@ package estruturaDeDados;
 public class Main {
 
 	public static void main(String[] args) {
-		/* Primeira implementaçãoi de um vetor
+		/* Primeira implementação de um vetor
 		
 		int vetor[]; // declaração do vetor
 		
@@ -24,6 +24,7 @@ public class Main {
 			v[i] = i;
 			System.out.println("v[" + i + "]" + " = " +v[i]); 
 			System.out.println("Olá");
+			System.out.println("Teste 02");
 		}
 		
 		
