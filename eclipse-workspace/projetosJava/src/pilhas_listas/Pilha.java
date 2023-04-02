@@ -71,6 +71,7 @@ public class Pilha {
 		System.out.println("Valor removido: " + pilhinha.pop());
 		System.out.println("Valor removido: " + pilhinha.pop());
 		System.out.println("Valor removido: " + pilhinha.pop());
+		System.out.println("Teste01");
 
 	}
 
